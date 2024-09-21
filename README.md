@@ -52,3 +52,4 @@ Missed a session? Catch up on our Facebook recordings for each day of training!
 ---
 
 Stay tuned for updates and additional resources!
+![1725651912479](https://github.com/user-attachments/assets/ce24a068-cf6e-4aa4-b6b7-147381ee3265)
