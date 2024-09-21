@@ -10,7 +10,7 @@ Welcome to the **4pm Real World AI, ML, DL Projects Mastery** course! This repos
 
 ## Moderators:
 - **Abdullah Siddique**  
-  LinkedIn: [Abdullah Siddique](www.linkedin.com/in/abdullah-siddique-682734263)
+  LinkedIn: [Abdullah Siddique](https://www.linkedin.com/in/abdullah-siddique-682734263/)
 - **Hashir Khan**  
   LinkedIn: [Hashir Khan](https://www.linkedin.com/in/hashir-khan-348a35217?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8NivWhQhTgy2AdgAztAXdg%3D%3D)
 
