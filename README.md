@@ -49,6 +49,12 @@ Missed a session? Catch up on our Facebook recordings for each day of training!
 - **Day 4 (Thursday)**: [Recording Link](https://web.facebook.com/share/v/Bh1EMcZF9826TFh4/)
 - **Day 5 (Friday)**: [Recording Link](https://web.facebook.com/share/v/v19z79vEkEcJYSFV/)
 
+### Week 4:
+- **Day 1 (Monday)**: [Recording Link](https://www.facebook.com/share/v/GJ9eBRCjQNbivYLW/)
+- **Day 2 (Tuesday)**: 
+- **Day 3 (Wednesday)**: 
+- **Day 4 (Thursday)**: 
+- **Day 5 (Friday)**: 
 ---
 
 Stay tuned for updates and additional resources!
