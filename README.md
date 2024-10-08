@@ -65,9 +65,9 @@ Missed a session? Catch up on our Facebook recordings for each day of training!
   
 ### Week 6:
 - **Day 1 (Monday)**: [Recording Link](https://fb.watch/v4rxPmO-Ht/)
-- **Day 2 (Tuesday)**: [Recording Link]()
-- **Day 3 (Wednesday)**: [Recording Link]()
-- **Day 4 (Thursday)**: [Recording Link]()
+- **Day 2 (Tuesday)**:
+- **Day 3 (Wednesday)**: 
+- **Day 4 (Thursday)**: 
 - **Day 5 (Friday)**:
 ---
 
