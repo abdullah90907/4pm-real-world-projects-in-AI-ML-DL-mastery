@@ -23,6 +23,15 @@ Welcome to the **4pm Real World AI, ML, DL Projects Mastery** course! This repos
 - **Google Colab Link**: [Access Colab Notebook](https://colab.research.google.com/drive/14ogvlZrDYlN2YKG5ACr5k_S4q8iHzK48?usp=sharing)  
   Start coding with our shared Colab resources designed for hands-on AI/ML practice.
 
+- **Google Colab Link**: [Numpy Notes](https://github.com/HijabNaqvi/NumPY-Tutorial)  
+
+- **GitHub Link**: [ML projects](https://github.com/HijabNaqvi/MachineLearningProjects/tree/main)  
+  
+- **GitHub Link**: [Spam Detection](https://github.com/shahid9455/iCodeGuru/blob/main/SMS_Spam_detection.ipynb)  
+
+- **GitHub Link**: [Movies Recommendation](https://github.com/shahid9455/iCodeGuru/blob/main/Movies_Recommendation_system.ipynb)  
+  Practice movie recommendations Google Colab code.
+
 ---
 
 ## Facebook Recordings:
