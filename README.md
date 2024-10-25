@@ -85,7 +85,15 @@ Missed a session? Catch up on our Facebook recordings for each day of training!
 - **Day 3 (Wednesday)**: [Recording Link](https://fb.watch/vivHCXMzWo/)
 - **Day 4 (Thursday)**: [Recording Link](https://fb.watch/vivCxdEjqi/)
 - **Day 5 (Friday)**: [Recording Link](https://fb.watch/vivotbawi9/)
----
 
+### Week 8:
+- **Day 1 (Monday)**: [Recording Link](https://www.facebook.com/share/v/KtNAbzffzZVxoAwf/)
+- **Day 2 (Tuesday)**: [Recording Link](#)
+- **Day 3 (Wednesday)**: [Recording Link](https://www.facebook.com/share/v/KQxH22FdHoqN1BAs/)
+- **Day 4 (Thursday)**: [Recording Link](https://www.facebook.com/share/v/M2Ws8XhZnoctNhwn/)
+- **Day 5 (Friday)**: [Recording Link](https://www.facebook.com/share/v/ArPUQvhNi2o93sHE/)
+
+
+---
 Stay tuned for updates and additional resources!
 ![1725651912479](https://github.com/user-attachments/assets/ce24a068-cf6e-4aa4-b6b7-147381ee3265)
